@@ -1,10 +1,10 @@
 ## Hi there👋, I'm Emmah Owens
 
 ⚙️ Tech Guru<br/>
-🧑‍💻Computer Enineering student<br/>
-👨‍🔬Electronics Engineering student<br/>
-💻Software Developer<br/>
-🌐Website builder<br/>
+🧑‍💻 Computer Enineering student<br/>
+👨‍🔬 Electronics Engineering student<br/>
+💻 Software Developer<br/>
+🌐 Website builder<br/>
 
 
 # 💻 Tech Stack:
