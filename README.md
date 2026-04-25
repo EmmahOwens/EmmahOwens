@@ -12,7 +12,7 @@ A passionate tech enthusiast and full-stack developer with a love for building i
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com)
 - 🐦 [Twitter](https://twitter.com)
-- 📧 Email: your-email@example.com
+- 📧 Email: emmahmbayo@gmail.com
 
 ---
 
